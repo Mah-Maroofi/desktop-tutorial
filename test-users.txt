@@ -1,0 +1,4 @@
+# Testbrukarar for DugnadHub
+# Oppdater med verkelege verdiar før levering.
+email: test.frivillig@example.com
+password: Dugnad123!
